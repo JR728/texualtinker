@@ -1,7 +1,14 @@
 # texualtinker
   ## Description
-  backend development to create a readmefile
-  
+  This backend development is to create a readmefile that has a description, table of contents, installation, usage, license, conrubiting, tests, and questions headers. The table of contents links takes them to the designated sections.
+
+  ## Images
+  Success
+  ![ScreenShot](./images/success-readmefile.png)
+  Readme code generated
+  ![ScreenShot](./images/readmefile-code.png)
+  Readme preview
+  ![ScreenShot](./images/readmefile-preview.png)
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
